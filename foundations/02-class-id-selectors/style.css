@@ -1,25 +1,28 @@
-.odd {
+.cool,
+.cooler,
+.cooling {
     background-color: rgb(255, 167, 167);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, DejaVu-sans, sans-serif
 }
 
-#one-id {
-    color: #0000ff;
-    font-size: 36px;
-}
-  
-.cooler {
-    background-color: rgb(255, 167, 167);
+.cooler,
+#coolout {
     font-size: 24px;
 }
 
-#four {
-    background-color: rgb(167, 255, 66);
+#coolest {
+    color: rgb(16, 16, 253);
+    font-size: 36px;
+}
+
+#coolout {
+    background-color: rgb(111, 250, 68);
     font-size: 24px;
     font-weight: bold;
 }
 
-.final {
-    background-color: rgb(255, 167, 167);
-}
+
+
+
+
 
