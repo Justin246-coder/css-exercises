@@ -3,7 +3,9 @@
   
 } 
 
-
+.small-para {
+  font-size: 22px;
+}
 
 .textchild {
   font-size: 14px;
@@ -37,10 +39,14 @@
 }
 
 
-
-
 .text {
   color: green;
   font-size: 22px;
+}
+
+
+p.small-para {
+  font-size: 14px;
+
 }
 
