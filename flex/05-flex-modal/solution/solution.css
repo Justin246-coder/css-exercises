@@ -33,6 +33,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  
+  
 }
 
 .close-button {
@@ -46,6 +48,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: row;
 }
 
 button {
@@ -71,6 +74,7 @@ button.cancel {
   display: flex;
   gap: 16px;
   padding: 16px;
+
 }
 
 .icon {
@@ -90,3 +94,5 @@ button.cancel {
 .text {
   margin-bottom: 16px;
 }
+
+
